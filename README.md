@@ -102,24 +102,24 @@ Below is the dataset structure which includes multiple relational tables includi
 
 # Key Recommendations
 
-####Improve delivery reliability in northeastern states  
+#### Improve delivery reliability in northeastern states  
 -Late delivery rates are consistently highest in this region, suggesting a need for operational review, logistics optimization, or improved carrier partnerships.
 -Conduct a root-cause analysis of carriers, warehouse proximity, and shipping routes to reduce delays.
 
-####Address low repeat purchase rates  
+#### Address low repeat purchase rates  
 -With over 95% of customers purchasing only once, targeted retention strategies (loyalty programs, personalized offers, post‑purchase engagement) could significantly increase lifetime value.
 
-####Promote high‑satisfaction, low‑volume product categories  
+#### Promote high‑satisfaction, low‑volume product categories  
 -Categories such as Children’s Clothes and CDs/DVDs show excellent review scores but low order volume. These are strong candidates for targeted marketing campaigns and improved search placement
 
-####Investigate underperforming sellers  
+#### Investigate underperforming sellers  
 -A small number of sellers show extremely low review scores and high late delivery rates. These sellers should be reviewed, coached, or removed to protect platform reputation.
 -It may also be beneficial to implement seller performance thresholds and corrective action plans.
 
-####Reward and elevate high-performing sellers  
+#### Reward and elevate high-performing sellers  
 -Sellers with consistently low late delivery rates and high review scores should be featured more prominently and could also be promoted through “Top Seller” badges or priority placement.
 
-####Expand product category insights into strategic planning  
+#### Expand product category insights into strategic planning  
 -Categories with high AOV (e.g., Computers) may warrant premium placement. This can be done with 'Featured Products' or 'Top-of-category' placement or featuring them in email or push notification highlights.
 
 
