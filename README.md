@@ -14,7 +14,7 @@ This project analyzes the Olist e‑commerce dataset to uncover trends & insight
 - Monthly revenue and order trends over time
 
 
-An interactive dashboard and analysis report can be downloaded [here]([./Olist_Ecommerce.pbix](https://github.com/erickcalderon1399/Olist_Ecommerce/blob/main/Olist_Ecommerce.pbix)).
+An interactive dashboard and analysis report can be downloaded [here](https://github.com/erickcalderon1399/Olist_Ecommerce/blob/main/Olist_Ecommerce.pbix).
 
 A SQL file (PostgreSQL) used to create the database, and to insert and alter data prior to loading to Power BI, as well as the original Excel files containing the datasets, can be found [here](https://github.com/erickcalderon1399/Olist_Ecommerce)
 
