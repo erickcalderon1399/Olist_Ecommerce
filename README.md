@@ -93,11 +93,11 @@ Below is the dataset structure which includes multiple relational tables includi
 - <img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/ba29fb4c-3507-49aa-8412-6b3b1f46d8ed" />
 
 - Users can use zoom sliders on the scatter plot to zoom in/out and can also click any points to filter by the seller represented
-- There are a handful of sellers, such as the one shown above from São Paulo, have more than a few orders but very low review scores and high delivery rates. They appear to consistently provide low quality and service, so it may be a good idea to flag them.
+- There are a handful of sellers, such as the one shown above from São Paulo, who have more than a few orders but very low review scores and high late delivery rates. They appear to consistently provide low quality and service.
 
 - <img width="1532" height="861" alt="image" src="https://github.com/user-attachments/assets/81eed548-d5f2-4ff1-8d07-fdd516294068" />
 
-- There are other sellers, such as the one shown above from Rio de Janeiro, who have consistently sold items with very low delivery rates and high review scores. It can be mutually beneficial to partner with these sellers and help promote their business
+- On a more positive note, there are other sellers, such as the one shown above from Rio de Janeiro, who have consistently sold items with very low delivery rates and high review scores. 
 
 
 # Key Recommendations
@@ -114,7 +114,6 @@ Below is the dataset structure which includes multiple relational tables includi
 
 #### Investigate underperforming sellers  
 - A small number of sellers show extremely low review scores and high late delivery rates. These sellers should be reviewed, coached, or removed to protect platform reputation.
-- It may also be beneficial to implement seller performance thresholds and corrective action plans.
 
 #### Reward and elevate high-performing sellers  
 - Sellers with consistently low late delivery rates and high review scores should be featured more prominently and could also be promoted through “Top Seller” badges or priority placement.
