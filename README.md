@@ -42,7 +42,7 @@ Below is the dataset structure which includes multiple relational tables includi
 - Order volume grew steadily from September 2016, until peaking in November 2017
 - From there, Orders remain stable until drastically declining in September 2018
 - Despite this dip in September, Revenue increased by $1.5 million from 2017 ($7.09M) to 2018 ($8.59M)
-- The winter months (May - August for Brazil) seem to generate the most revenue historically
+- The winter months (May - August) seem to generate the most revenue historically
 - Users can click on a specific year in the legend to filter data by that year, or on a single bar in the chart to filter data by the selected month-year
   
 <img width="1200" height="671" alt="image" src="https://github.com/user-attachments/assets/ce953a39-0e91-40a0-95a8-46aeca2203c9" />
@@ -87,7 +87,7 @@ Below is the dataset structure which includes multiple relational tables includi
 
 
 - The top sellers by order volume are located in São Paulo
-- The scatter plot shows that lower delivery rates unsurprisingly correlate with higher review scores
+- The scatter plot shows that lower late delivery rates unsurprisingly correlate with higher review scores
 - Fortunately, all the sellers with higher late delivery rates also tend to have very lower order volume, so they make up only a small proportion of all orders being made with olist.
 
 - <img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/ba29fb4c-3507-49aa-8412-6b3b1f46d8ed" />
